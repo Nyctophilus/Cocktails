@@ -68,4 +68,4 @@ This project require some prequesites and dependenscies to be installed, you can
 
 ## liveDemo
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0068b2fc-7655-4cf5-9321-9c36dc77b60d/deploy-status)](https://app.netlify.com/sites/react-cocktail-nyc/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/65d77533-f7b8-4e36-b894-8f25ace6bb46/deploy-status)](https://app.netlify.com/sites/dreamy-cocktail-react/deploys)
