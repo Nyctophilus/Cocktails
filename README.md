@@ -23,7 +23,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#screenshots">Screenshots</a></li>
+    <li><a href="#liveDemo">live Demo</a></li>
   </ol>
 </details>
 
@@ -66,4 +66,6 @@ This project require some prequesites and dependenscies to be installed, you can
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Screenshots
+## liveDemo
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0068b2fc-7655-4cf5-9321-9c36dc77b60d/deploy-status)](https://app.netlify.com/sites/react-cocktail-nyc/deploys)
