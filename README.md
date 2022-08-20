@@ -64,8 +64,14 @@ This project require some prequesites and dependenscies to be installed, you can
    npm run dev
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ## liveDemo
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6a5b9d10-ab66-4533-8dac-9eae0d4d2578/deploy-status)](https://silver-cocktails-react-app.netlify.app/)
+
+## Screenshots
+
+### Preview Image
+
+![Preview](preview.png)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
